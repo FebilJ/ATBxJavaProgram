@@ -1,5 +1,7 @@
 package oct.Task_17102024;
 
+// ✅ Grade Calculator:
+
 import java.util.Scanner;
 public class Task1 {
 	public static void main(String args[]) {
