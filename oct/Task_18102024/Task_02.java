@@ -13,7 +13,6 @@ public class Task_02 {
 		// Check if the input is an integer
 		if(sc.hasNextInt()) {
 			month = sc.nextInt();
-			
 			// Check if the month is within the valid range
 			if(month>=1 && month <=12) {
 				break; // Valid input, exit the loop
