@@ -16,7 +16,7 @@ public class Task_01 {
 		 System.out.println("Enter Num 2");
 		 int b = sc.nextInt();
 		 
-		 
+		// Using printf for formatted output
 		 System.out.printf("%d + %d = %d%n", a,b,sum(a,b));
 		 System.out.printf("%d - %d = %d%n", a,b,sub(a,b));
 		 System.out.printf("%d * %d = %d%n", a,b,mul(a,b));
