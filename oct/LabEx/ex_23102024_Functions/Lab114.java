@@ -7,10 +7,10 @@ public class Lab114 {
 		
 		// User Defined Functions.
 
-        //  1.Without Parameters and Without Return Type
-        // 2.Without Parameters but With Return Type
-        // 3.With Parameters and Without Return Type
-        // 4. With Parameters and With Return Type
+        //  1.Without Argument/Parameters and Without Return Type
+        // 2.Without Argument/Parameters but With Return Type
+        // 3.With Argument/Parameters and Without Return Type
+        // 4. With Argument/Parameters and With Return Type
 
 
 
@@ -24,7 +24,7 @@ public class Lab114 {
         greet();
 
 
-        //  2. Without Parameters but With Return Type
+        //  2. Without Argument/Parameters but With Return Type
         String returned_value = greet_with_hello();
         System.out.println(returned_value);
 
