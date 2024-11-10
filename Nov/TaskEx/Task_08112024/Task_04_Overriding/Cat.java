@@ -1,0 +1,8 @@
+package Nov.TaskEx.Task_08112024.Task_04_Overriding;
+
+public class Cat extends Animal{
+	 @Override
+	    public void voice() {
+	        System.out.println("Meow!");
+	    }
+}
