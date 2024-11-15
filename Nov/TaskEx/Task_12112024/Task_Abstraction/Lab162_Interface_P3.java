@@ -3,7 +3,7 @@ package Nov.TaskEx.Task_12112024.Task_Abstraction;
 public class Lab162_Interface_P3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubss
 		
 		son c = new son();
 		
