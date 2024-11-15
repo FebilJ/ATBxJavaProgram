@@ -6,9 +6,9 @@ public class TestCase1 extends BaseClass{
         super(); // Parent Constructor - Super - Means Parent
         // this - current Object
         System.out.println("DC - TC1");
-
     }
-
+	
+	//normal function to call base class function
     public void startTestCase(){
         openBrowser("chrome");
         closeBrowser();
