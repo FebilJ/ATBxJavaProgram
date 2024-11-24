@@ -4,7 +4,9 @@ public class Lab171_Wrapper {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		int a = 10;
+		String s1 = new String("febil");
+		System.out.println(s1.contains("fe"));
 	}
-
 }
